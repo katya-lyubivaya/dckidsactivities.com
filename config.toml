@@ -3,3 +3,51 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Kids Activities in Washington DC"
 theme = "pacman"
+
+[outputs]
+  home = [ "RSS", "HTML" ]
+    
+[outputFormats] 
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
+
+[Params]
+  AuthorHomepage = "http://dckidsactivities.com/"
+  BottomIntroduce = "Introduce1 <br/> Introduce2"
+  Description = ""
+  Subtitle = "subtitle"
+  GitHub = "katya-lyubivaya"
+  Imglogo = "img/logo.svg"
+  AuthorImg = "img/author.jpg"
+  DateFormat = "2006/01/02"
+  MonthFormat = "2006/01"
+  FancyBox = true
+
+  [Params.GoogleAnalytics]
+    ID = "xxxx"
+
+  [Params.Disqus]
+    ShortName = "dckidsactivities-com"
+
+  [Params.Strings]
+    Search = "Search"
+    PageNotFound = "Page Not Found"
+    ShowSideBar = "Show"
+    HideSideBar = "Hide"
+    Categories = "Categories"
+    Archive = "Archive"
+    Tags = "Tags"
+    TagCloud = "TagCloud"
+    Rss = "RSS"
+    TableOfContents = "Table of Contents"
+
+[Menu]
+  [[Menu.Main]]
+    Name = "DC Kids Activities"
+    URL = "/"
+    Weight = 1
+  [[Menu.Main]]
+    Name = "Posts"
+    URL = "/posts"
+    Weight = 2
