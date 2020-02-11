@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids Activities in Washington DC</title>
+    <link>http://dckidsactivities.com/</link>
+    <description>Recent content on Kids Activities in Washington DC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2020 21:02:13 -0500</lastBuildDate>
+    
+	<atom:link href="http://dckidsactivities.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About this website</title>
+      <link>http://dckidsactivities.com/posts/my-first-post/</link>
+      <pubDate>Mon, 10 Feb 2020 21:02:13 -0500</pubDate>
+      
+      <guid>http://dckidsactivities.com/posts/my-first-post/</guid>
+      <description>Hello. My name is Katya. This is my website.</description>
+    </item>
+    
+  </channel>
+</rss>

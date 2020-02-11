@@ -1,0 +1,4 @@
+baseURL = "http://dckidsactivities.com/"
+languageCode = "en-us"
+title = "Kids Activities in Washington DC"
+theme = "pacman"
