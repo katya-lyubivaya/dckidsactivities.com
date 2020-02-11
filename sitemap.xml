@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://dckidsactivities.com/posts/my-first-post/</loc>
+    <lastmod>2020-02-10T21:02:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dckidsactivities.com/</loc>
+    <lastmod>2020-02-10T21:02:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dckidsactivities.com/posts/</loc>
+    <lastmod>2020-02-10T21:02:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dckidsactivities.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://dckidsactivities.com/tags/</loc>
+  </url>
+  
+</urlset>
